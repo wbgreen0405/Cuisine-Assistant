@@ -1,0 +1,6 @@
+openai==0.28
+supabase
+supabase-client
+python-dotenv
+langchain[llm]==0.0.228
+psycopg2-binary
