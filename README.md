@@ -4,7 +4,8 @@
 
 Cuisine-Assistant harnesses AI's power to revolutionize recipe discovery and management. Integrating OpenAI's LLM for natural language processing with Spoonacular's extensive recipe database and Supabase for data storage, it offers a seamless culinary exploration experience. Dive into a digital gastronomy adventure, where AI savvy meets a treasure trove of flavors.
 
-![Cuisine-Assistant Robot]([https://github.com/yourusername/Cuisine-Assistant/blob/main/images/chef-robot.jpg](https://github.com/wbgreen0405/Cuisine-Assistant/blob/main/assets/images/cruisne%20asst.png))
+<img src="https://github.com/yourusername/Cuisine-Assistant/blob/main/images/chef-robot.jpg](https://github.com/wbgreen0405/Cuisine-Assistant/blob/main/assets/images/cruisne%20asst.png" width= "200" height="200"/>
+
 
 ## Features
 
