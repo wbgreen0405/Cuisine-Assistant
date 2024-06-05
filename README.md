@@ -39,7 +39,7 @@ cp .env.example .env
 * OpenAI LLM: For parsing and understanding natural language queries.
 * oonacular API: Provides a rich repository of diverse recipes.
 * Supabase: Ensures scalable and flexible data management.
-* 
+  
 ### Project Context
 
 Cuisine-Assistant began as an exploration into the practical applications of LLMs in the culinary domain, aiming to blend AI's analytical power with the art of cooking. The project symbolizes the future of kitchen innovation, where technology assists in making culinary discovery a delightful experience.
